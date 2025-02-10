@@ -11,6 +11,14 @@ body{
 input{
     text-align: center;
     max-width:max-content;
-    
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 8px;
 
+}
+label{
+    font-size: 30px;
+}
+h1{
+    font-size: 32px;
 }
