@@ -1,0 +1,20 @@
+body{
+    background-image:url(/Encrypted-Banking/images/SL-121021-47240-13.jpg);
+    color: azure;
+    text-align: center;
+    background-size: cover;
+}
+table,th,td{
+    border:solid 2px;
+    border-color: azure;
+    border-collapse:collapse;
+    width: fit-content;
+    height: fit-content;
+    padding:20px;
+    text-align: center;
+    font-size: 30px;
+
+}
+h1{
+    font-size: 45px;
+}
