@@ -9,3 +9,10 @@ h1{
     font-size: 60px;
     margin-top: 50px;
 }
+a{
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+}
+footer{
+    margin-top: 150px;
+}

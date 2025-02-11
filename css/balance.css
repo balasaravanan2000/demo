@@ -6,3 +6,10 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
 }
+a{
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+}
+footer{
+    margin-top: 150px;
+}
