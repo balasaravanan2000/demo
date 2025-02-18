@@ -14,3 +14,15 @@ a{
    
     
 }
+footer{
+   position: fixed;
+    bottom: 12px;
+    text-align: center;
+    margin-top:25px; ;
+}
+.footerlink{
+    font-size: medium;
+
+
+}
+

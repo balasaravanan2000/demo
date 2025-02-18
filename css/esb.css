@@ -33,3 +33,14 @@ a{
     color: azure;
     font-size: smaller;
 }
+div{
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+footer{
+    position: fixed;
+    bottom: 8px;
+    text-align: center;
+}
+
